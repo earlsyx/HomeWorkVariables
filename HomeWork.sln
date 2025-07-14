@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTypeConversions", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkConditionalStatements", "HomeWorkConditionalStatements\HomeWorkConditionalStatements.csproj", "{A3F54C03-A6E8-402D-895B-8B6C85F42078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkMiniProject1", "HomeWorkMiniProject1\HomeWorkMiniProject1.csproj", "{F8BDFB9D-C917-4F53-BA4C-C33D1C44827D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A3F54C03-A6E8-402D-895B-8B6C85F42078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F54C03-A6E8-402D-895B-8B6C85F42078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F54C03-A6E8-402D-895B-8B6C85F42078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BDFB9D-C917-4F53-BA4C-C33D1C44827D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BDFB9D-C917-4F53-BA4C-C33D1C44827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BDFB9D-C917-4F53-BA4C-C33D1C44827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BDFB9D-C917-4F53-BA4C-C33D1C44827D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

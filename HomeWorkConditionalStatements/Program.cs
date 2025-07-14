@@ -32,6 +32,7 @@ switch (name.ToLower())
         Console.WriteLine("Not a student");
         break;
     default:
-        Console.WriteLine("Student");
+
+            Console.WriteLine("Student");
         break;
 }
